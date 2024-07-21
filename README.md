@@ -8,7 +8,7 @@ This project uses the YOLOv9s model to identify time markers in seismograms.
 
 ## Installation
 You can install ultralytics-8.2.60 from the official address:
-<insert official address here>
+<[insert official address here](https://github.com/ultralytics/ultralytics/tree/v8.2.60)>
 ```
 Model
 Our trained v9s model is available in the folder, named best.pt.
