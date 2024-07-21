@@ -20,7 +20,7 @@ To use the trained model, follow these steps:
 2. Place the best.pt file in the appropriate directory.
 3. For detailed instructions on running the model, please refer to the documentation provided by ultralytics.
 
-### Example Code to Use the Model and Display Images
+### the performance of our trained model
 ![image](https://github.com/user-attachments/assets/578cab42-b884-4046-b0c1-c621c5e04f96)
 ![image](https://github.com/user-attachments/assets/7394f1ec-0aa0-482f-a127-bd5c9a7792ca)
 
